@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Coffee with cat women
+Welcome !!! Woof!!!
 
 ![codercat](https://octodex.github.com/images/codercat.jpg)
 {: .center}
